@@ -39,7 +39,7 @@ const Produtos = () => {
           )
         })}
       </div>
-      <Buttonmais onClick={nextPage}/>
+      <Buttonmais onClick={nextPage} textoBtn="Ainda mais produtos aqui!"/>
     </div>
   )
 }
